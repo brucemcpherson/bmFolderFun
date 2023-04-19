@@ -1,5 +1,5 @@
 # Google Apps Script Project: bmFolderFun
-This repo (bmFolderFun) was automatically updated on 7/17/2021, 12:14:01 PM by GasGit
+This repo (bmFolderFun) was automatically updated on 4/19/2023, 11:15:30?AM by GasGit
 
 For more information on gasgit, see the [desktop liberation site](https://ramblings.mcpher.com/drive-sdk-and-github/migrategasgit/ "desktop liberation")
 
@@ -17,6 +17,7 @@ The shared link for [bmFolderFun is here](https://script.google.com/d/16NWIRmwJJ
 --- | --- 
 appsscript| json
 Code| server_js
+Exports| server_js
 ### Directly referenced libraries
 no libraries discovered
 ### All dependencies and sub dependencies
